@@ -64,7 +64,7 @@ class DBOperation:
         
         if ((not self.search(table_name, values)) or duplicable):
             cur.execute(
-                f"INSERT INTO {table_name} ({', '.join(values.keys())}) VALUES ('{'\', \''.join(values.values())}')"
+                f"""INSERT INTO {table_name} ({', '.join(values.keys())}) VALUES ("{'", "'.join(values.values())}")"""
             )
         
         self.conn.commit()
