@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>書籍検索</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='search.css') }}"> 
+</head>
+<body>
+    <div class="container">
+        <h1>書籍検索</h1>
+
+        {% if 'logged_in' in session %}
+            <p>ようこそ、{{ session.get('user_name', 'ゲスト') }}さん！ <a href="{{ url_for('logout') }}" class="logout-link">ログアウト</a></p>
+        {% endif %}
+
+        <form method="GET" action="/search">
+            <div class="search-box">
+                <input type="text" name="query" placeholder="書籍名を入力" value="{{ request.args.get('query', '') }}">
+                <button type="submit">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    検索
+                </button>
+            </div>
+        </form>
+
+        <ul>
+            {% for id, book in books.items() %}
+            <li>
+                <strong>{{ book.title }}</strong> URL->{{ book.url }}
+                <form method="POST" action="/search" class="rating-form"> 
+                    <input type="hidden" name="book_id" value="{{ id }}">
+                    <div class="rating"> 
+                        <input type="radio" name="rating" value="5" id="rating-{{ loop.index }}-5" {% if book.ratings.get(session.get('user_name', 'guest')) == 5 %} checked {% endif %}>
+                        <label for="rating-{{ loop.index }}-5"></label>
+                        <input type="radio" name="rating" value="4" id="rating-{{ loop.index }}-4" {% if book.ratings.get(session.get('user_name', 'guest')) == 4 %} checked {% endif %}>
+                        <label for="rating-{{ loop.index }}-4"></label>
+                        <input type="radio" name="rating" value="3" id="rating-{{ loop.index }}-3" {% if book.ratings.get(session.get('user_name', 'guest')) == 3 %} checked {% endif %}>
+                        <label for="rating-{{ loop.index }}-3"></label>
+                        <input type="radio" name="rating" value="2" id="rating-{{ loop.index }}-2" {% if book.ratings.get(session.get('user_name', 'guest')) == 2 %} checked {% endif %}>
+                        <label for="rating-{{ loop.index }}-2"></label>
+                        <input type="radio" name="rating" value="1" id="rating-{{ loop.index }}-1" {% if book.ratings.get(session.get('user_name', 'guest')) == 1 %} checked {% endif %}>
+                        <label for="rating-{{ loop.index }}-1"></label>
+                    </div>
+                </form>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <a href="{{ url_for('recommend') }}" class="recommend-button">推薦図書</a> 
+        <a href="{{ url_for('friends') }}" class="friend-button">フレンド</a>
+    </div>
+    <script>
+        const ratingForms = document.querySelectorAll('.rating-form');
+        ratingForms.forEach(form => {
+            form.addEventListener('click', () => {
+                form.submit();
+            });
+        });
+    </script>
+</body>
+</html>

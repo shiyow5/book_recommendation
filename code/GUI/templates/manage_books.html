@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>書籍管理</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='manage_books.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>書籍管理</h1>
+
+        {% if message %}
+            <p class="message">{{ message }}</p>
+        {% endif %}
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+
+        <h2>書籍追加</h2>
+        <form method="POST" action="/manage_books"> 
+            <div class="user-box">
+                <input type="text" name="book_name" required="">
+                <label>書籍名</label>
+            </div>
+            <div class="user-box">
+                <textarea name="document_content" rows="10" cols="40"></textarea>
+                <label>書籍紹介ページ内容</label> 
+            </div>
+            <button type="submit" name="add_book">追加</button>
+        </form>
+
+        <h2>書籍削除</h2>
+        <form method="POST", action="/manage_books">
+            <div class="user-box">
+                <input type="text" name="book_name" required="">
+                <label>書籍名</label>
+            </div>
+            <button type="submit" name="delete_book">削除</button>
+        </form>
+        <a href="{{ url_for('login') }}" class="back-button">戻る</a>
+    </div>
+</body>
+</html>

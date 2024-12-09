@@ -1,0 +1,2229 @@
+
+<test case 0>
+  1   1.00 : 0.94 : 1.94 : graph.html
+  2   0.75 : 1.00 : 1.75 : data.html
+  3   0.00 : 0.70 : 0.70 : search.html
+  4   0.00 : 0.42 : 0.42 : sort.html
+  5   0.00 : 0.09 : 0.09 : algorithm.html
+
+<test case 1>
+  1   0.00 : 1.00 : 1.00 : yONWF95fnSylTv5.html
+  2   0.00 : 1.00 : 1.00 : oH5NAW0Feo0BDPhlW.html
+  3   0.00 : 0.89 : 0.89 : FKPufDS4cEC.html
+  4   0.00 : 0.88 : 0.88 : eGlTTdmeAKO.html
+  5   0.00 : 0.84 : 0.84 : BIXJat10.html
+  6   0.00 : 0.79 : 0.79 : bdbv.html
+  7   0.00 : 0.76 : 0.76 : I20QPigfjGfhb6E.html
+  8   0.00 : 0.71 : 0.71 : w6uRx316n.html
+  9   0.00 : 0.71 : 0.71 : 5aclD99RhC1e28.html
+ 10   0.00 : 0.70 : 0.70 : y9b5OECyA.html
+ 11   0.00 : 0.70 : 0.70 : wuMbV9aK9Hd3.html
+ 12   0.00 : 0.69 : 0.69 : QEFgnjjwZ19NlgFVRLI.html
+ 13   0.00 : 0.69 : 0.69 : oQFpZBIQ3YyD.html
+ 14   0.00 : 0.69 : 0.69 : JX.html
+ 15   0.00 : 0.68 : 0.68 : YjMfw5gNdh.html
+ 16   0.00 : 0.66 : 0.66 : fov.html
+ 17   0.00 : 0.65 : 0.65 : AplRYmaNKPj70G4QVgGd.html
+ 18   0.00 : 0.64 : 0.64 : wed.html
+ 19   0.00 : 0.63 : 0.63 : JnMvJw.html
+ 20   0.00 : 0.62 : 0.62 : Sj9eRGoXlqOqU4m.html
+ 21   0.00 : 0.62 : 0.62 : n7XQLe.html
+ 22   0.00 : 0.61 : 0.61 : 2oAc7.html
+ 23   0.00 : 0.61 : 0.61 : sJRDJfpiHJCmnH.html
+ 24   0.00 : 0.60 : 0.60 : Vpm.html
+ 25   0.00 : 0.58 : 0.58 : xLBtf.html
+ 26   0.00 : 0.58 : 0.58 : UdgfV.html
+ 27   0.00 : 0.58 : 0.58 : Fyr.html
+ 28   0.00 : 0.58 : 0.58 : P5O7Dg4pDux0OpE.html
+ 29   0.00 : 0.57 : 0.57 : 1EfN0g.html
+ 30   0.00 : 0.57 : 0.57 : y3ylcavd22KB.html
+ 31   0.00 : 0.56 : 0.56 : w5oOOY.html
+ 32   0.00 : 0.55 : 0.55 : 1DiCks48fr3Jmha.html
+ 33   0.00 : 0.54 : 0.54 : Cg.html
+ 34   0.00 : 0.53 : 0.53 : 5m.html
+ 35   0.00 : 0.53 : 0.53 : tURbVD4TRLz0LlIYK.html
+ 36   0.00 : 0.52 : 0.52 : RutOZ70qs8C.html
+ 37   0.00 : 0.52 : 0.52 : yjCEaLwW.html
+ 38   0.00 : 0.52 : 0.52 : HgqFxy2FmaeqV.html
+ 39   0.00 : 0.52 : 0.52 : tU3SgGjo.html
+ 40   0.00 : 0.52 : 0.52 : NVUczxQkWLykumkxlmCs.html
+ 41   0.00 : 0.52 : 0.52 : pjbX.html
+ 42   0.00 : 0.51 : 0.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 43   0.00 : 0.51 : 0.51 : aTqhZIAEEc.html
+ 44   0.00 : 0.51 : 0.51 : D9tSfdAfER7vS.html
+ 45   0.00 : 0.50 : 0.50 : w9.html
+ 46   0.00 : 0.50 : 0.50 : 5D.html
+ 47   0.00 : 0.50 : 0.50 : rGAArtWDQKSxTWl1X.html
+ 48   0.00 : 0.50 : 0.50 : ds6uc.html
+ 49   0.00 : 0.49 : 0.49 : ktEazua8wR1aP.html
+ 50   0.00 : 0.49 : 0.49 : gVaqCLWOmc.html
+ 51   0.00 : 0.48 : 0.48 : WbAkNnUlmTqUT.html
+ 52   0.00 : 0.47 : 0.47 : Locx.html
+ 53   0.00 : 0.47 : 0.47 : L8D.html
+ 54   0.00 : 0.47 : 0.47 : gBnVjc.html
+ 55   0.00 : 0.46 : 0.46 : 9bBmL4bz2Qe4.html
+ 56   0.00 : 0.44 : 0.44 : uggCE09c.html
+ 57   0.00 : 0.44 : 0.44 : tL1P6.html
+ 58   0.00 : 0.44 : 0.44 : MD.html
+ 59   0.00 : 0.44 : 0.44 : 4YthS7w3rhGK.html
+ 60   0.00 : 0.44 : 0.44 : fHwsCJ.html
+ 61   0.00 : 0.43 : 0.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 62   0.00 : 0.42 : 0.42 : XF62fElBqufAJyPv5aRQ.html
+ 63   0.00 : 0.42 : 0.42 : mBW9epfH0W0z.html
+ 64   0.00 : 0.42 : 0.42 : SU1mE.html
+ 65   0.00 : 0.42 : 0.42 : yPRH6FrLBVJKhY.html
+ 66   0.00 : 0.42 : 0.42 : YpnawHKVRr0RqEuFRf3a.html
+ 67   0.00 : 0.41 : 0.41 : qTs.html
+ 68   0.00 : 0.41 : 0.41 : ORJwprCgYgaETpCOhfvN.html
+ 69   0.00 : 0.40 : 0.40 : 2Lg.html
+ 70   0.00 : 0.40 : 0.40 : dA.html
+ 71   0.00 : 0.40 : 0.40 : Fphne.html
+ 72   0.00 : 0.40 : 0.40 : oY0KSbEQ6ge3DoZATbeD.html
+ 73   0.00 : 0.39 : 0.39 : 8Zp2hG.html
+ 74   0.00 : 0.38 : 0.38 : A2.html
+ 75   0.00 : 0.38 : 0.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 76   0.00 : 0.38 : 0.38 : 2qj.html
+ 77   0.00 : 0.38 : 0.38 : PDBoywN1JbXLcJBr.html
+ 78   0.00 : 0.37 : 0.37 : IEpmkw8DGLQc6ZC6XY.html
+ 79   0.00 : 0.37 : 0.37 : BXz1N7TRnUS6eK.html
+ 80   0.00 : 0.36 : 0.36 : WP6fm5uub.html
+ 81   0.00 : 0.35 : 0.35 : iF.html
+ 82   0.00 : 0.34 : 0.34 : lXffUd4mBt.html
+ 83   0.00 : 0.33 : 0.33 : eWH692uRkFzpNA.html
+ 84   0.00 : 0.33 : 0.33 : 5kCo2Ubxcd1B9VSSt.html
+ 85   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+ 86   0.00 : 0.32 : 0.32 : nFD7Wzry.html
+ 87   0.00 : 0.32 : 0.32 : rFw9FsIS.html
+ 88   0.00 : 0.31 : 0.31 : nv37UqXDzUiNNiURnO.html
+ 89   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+ 90   0.00 : 0.29 : 0.29 : 1LgVpEddZEFpu.html
+ 91   0.00 : 0.29 : 0.29 : k9EBQBQ73MemtP5QW.html
+ 92   0.00 : 0.28 : 0.28 : TTchrX3CujZydlAAMFam.html
+ 93   0.00 : 0.28 : 0.28 : 3ZGarg8FgMINxHc.html
+ 94   0.00 : 0.26 : 0.26 : 44T.html
+ 95   0.00 : 0.26 : 0.26 : xHvIczqgkoryhXy.html
+ 96   0.00 : 0.26 : 0.26 : qgVN7XbLjB9rI.html
+ 97   0.00 : 0.26 : 0.26 : H1Zl.html
+ 98   0.00 : 0.26 : 0.26 : l8i.html
+ 99   0.00 : 0.26 : 0.26 : M2wfDzI6m1GENC.html
+100   0.00 : 0.24 : 0.24 : tAz.html
+101   0.00 : 0.24 : 0.24 : CmqUjwzaM4AB4dzq.html
+102   0.00 : 0.22 : 0.22 : XeoToFJvg6D9DVCji.html
+103   0.00 : 0.19 : 0.19 : Io1tZ.html
+104   0.00 : 0.17 : 0.17 : LU7dXP.html
+105   0.00 : 0.14 : 0.14 : MKRYuPSOpHeKci0FftAt.html
+106   0.00 : 0.11 : 0.11 : CGBF.html
+107   0.00 : 0.11 : 0.11 : mChIwaq4m.html
+108   0.00 : 0.11 : 0.11 : n84ypk3C4zSJPMvLT.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 2>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : Fyr.html
+ 25   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 26   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 27   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 28   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 29   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 30   1.00 : 0.54 : 1.54 : Cg.html
+ 31   1.00 : 0.53 : 1.53 : 5m.html
+ 32   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 33   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 34   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 35   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 36   1.00 : 0.52 : 1.52 : pjbX.html
+ 37   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 38   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 39   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 40   1.00 : 0.50 : 1.50 : w9.html
+ 41   1.00 : 0.50 : 1.50 : 5D.html
+ 42   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 43   1.00 : 0.50 : 1.50 : ds6uc.html
+ 44   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 45   1.00 : 0.49 : 1.49 : gVaqCLWOmc.html
+ 46   1.00 : 0.47 : 1.47 : Locx.html
+ 47   1.00 : 0.47 : 1.47 : L8D.html
+ 48   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 49   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 50   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 51   1.00 : 0.44 : 1.44 : MD.html
+ 52   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 53   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 54   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 55   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 56   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 57   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 58   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 59   1.00 : 0.40 : 1.40 : 2Lg.html
+ 60   1.00 : 0.40 : 1.40 : dA.html
+ 61   1.00 : 0.40 : 1.40 : Fphne.html
+ 62   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 63   1.00 : 0.38 : 1.38 : A2.html
+ 64   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 65   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 66   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 67   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 68   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 69   1.00 : 0.35 : 1.35 : iF.html
+ 70   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 71   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 72   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 73   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 74   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 75   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 76   1.00 : 0.29 : 1.29 : 1LgVpEddZEFpu.html
+ 77   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 78   1.00 : 0.28 : 1.28 : TTchrX3CujZydlAAMFam.html
+ 79   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 80   1.00 : 0.26 : 1.26 : 44T.html
+ 81   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 82   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 83   1.00 : 0.26 : 1.26 : H1Zl.html
+ 84   1.00 : 0.26 : 1.26 : l8i.html
+ 85   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 86   1.00 : 0.24 : 1.24 : tAz.html
+ 87   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 88   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 89   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 90   1.00 : 0.11 : 1.11 : CGBF.html
+ 91   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 92   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 93   0.00 : 0.79 : 0.79 : bdbv.html
+ 94   0.00 : 0.69 : 0.69 : JX.html
+ 95   0.00 : 0.61 : 0.61 : 2oAc7.html
+ 96   0.00 : 0.53 : 0.53 : tURbVD4TRLz0LlIYK.html
+ 97   0.00 : 0.52 : 0.52 : tU3SgGjo.html
+ 98   0.00 : 0.48 : 0.48 : WbAkNnUlmTqUT.html
+ 99   0.00 : 0.44 : 0.44 : tL1P6.html
+100   0.00 : 0.42 : 0.42 : SU1mE.html
+101   0.00 : 0.42 : 0.42 : yPRH6FrLBVJKhY.html
+102   0.00 : 0.41 : 0.41 : qTs.html
+103   0.00 : 0.40 : 0.40 : oY0KSbEQ6ge3DoZATbeD.html
+104   0.00 : 0.38 : 0.38 : 2qj.html
+105   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+106   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+107   0.00 : 0.19 : 0.19 : Io1tZ.html
+108   0.00 : 0.17 : 0.17 : LU7dXP.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 3>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : Fyr.html
+ 25   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 26   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 27   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 28   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 29   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 30   1.00 : 0.54 : 1.54 : Cg.html
+ 31   1.00 : 0.53 : 1.53 : 5m.html
+ 32   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 33   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 34   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 35   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 36   1.00 : 0.52 : 1.52 : pjbX.html
+ 37   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 38   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 39   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 40   1.00 : 0.50 : 1.50 : w9.html
+ 41   1.00 : 0.50 : 1.50 : 5D.html
+ 42   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 43   1.00 : 0.50 : 1.50 : ds6uc.html
+ 44   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 45   1.00 : 0.47 : 1.47 : Locx.html
+ 46   1.00 : 0.47 : 1.47 : L8D.html
+ 47   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 48   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 49   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 50   1.00 : 0.44 : 1.44 : MD.html
+ 51   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 52   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 53   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 54   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 55   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 56   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 57   1.00 : 0.41 : 1.41 : qTs.html
+ 58   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 59   1.00 : 0.40 : 1.40 : 2Lg.html
+ 60   1.00 : 0.40 : 1.40 : dA.html
+ 61   1.00 : 0.40 : 1.40 : Fphne.html
+ 62   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 63   1.00 : 0.38 : 1.38 : A2.html
+ 64   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 65   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 66   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 67   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 68   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 69   1.00 : 0.35 : 1.35 : iF.html
+ 70   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 71   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 72   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 73   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 74   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 75   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 76   1.00 : 0.29 : 1.29 : 1LgVpEddZEFpu.html
+ 77   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 78   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 79   1.00 : 0.26 : 1.26 : 44T.html
+ 80   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 81   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 82   1.00 : 0.26 : 1.26 : H1Zl.html
+ 83   1.00 : 0.26 : 1.26 : l8i.html
+ 84   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 85   1.00 : 0.24 : 1.24 : tAz.html
+ 86   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 87   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 88   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 89   1.00 : 0.11 : 1.11 : CGBF.html
+ 90   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 91   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 92   0.50 : 0.79 : 1.29 : bdbv.html
+ 93   0.50 : 0.42 : 0.92 : SU1mE.html
+ 94   0.50 : 0.40 : 0.90 : oY0KSbEQ6ge3DoZATbeD.html
+ 95   0.50 : 0.38 : 0.88 : 2qj.html
+ 96   0.50 : 0.28 : 0.78 : TTchrX3CujZydlAAMFam.html
+ 97   0.50 : 0.19 : 0.69 : Io1tZ.html
+ 98   0.00 : 0.69 : 0.69 : JX.html
+ 99   0.00 : 0.61 : 0.61 : 2oAc7.html
+100   0.00 : 0.53 : 0.53 : tURbVD4TRLz0LlIYK.html
+101   0.00 : 0.52 : 0.52 : tU3SgGjo.html
+102   0.00 : 0.49 : 0.49 : gVaqCLWOmc.html
+103   0.00 : 0.48 : 0.48 : WbAkNnUlmTqUT.html
+104   0.00 : 0.44 : 0.44 : tL1P6.html
+105   0.00 : 0.42 : 0.42 : yPRH6FrLBVJKhY.html
+106   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+107   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+108   0.00 : 0.17 : 0.17 : LU7dXP.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 4>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : 2oAc7.html
+ 21   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 22   1.00 : 0.60 : 1.60 : Vpm.html
+ 23   1.00 : 0.58 : 1.58 : xLBtf.html
+ 24   1.00 : 0.58 : 1.58 : UdgfV.html
+ 25   1.00 : 0.58 : 1.58 : Fyr.html
+ 26   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 27   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 28   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 29   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 30   1.00 : 0.54 : 1.54 : Cg.html
+ 31   1.00 : 0.53 : 1.53 : 5m.html
+ 32   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 33   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 34   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 35   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 36   1.00 : 0.52 : 1.52 : pjbX.html
+ 37   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 38   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 39   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 40   1.00 : 0.50 : 1.50 : w9.html
+ 41   1.00 : 0.50 : 1.50 : 5D.html
+ 42   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 43   1.00 : 0.50 : 1.50 : ds6uc.html
+ 44   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 45   1.00 : 0.47 : 1.47 : Locx.html
+ 46   1.00 : 0.47 : 1.47 : L8D.html
+ 47   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 48   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 49   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 50   1.00 : 0.44 : 1.44 : MD.html
+ 51   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 52   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 53   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 54   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 55   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 56   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 57   1.00 : 0.40 : 1.40 : 2Lg.html
+ 58   1.00 : 0.40 : 1.40 : dA.html
+ 59   1.00 : 0.40 : 1.40 : Fphne.html
+ 60   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 61   1.00 : 0.38 : 1.38 : A2.html
+ 62   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 63   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 64   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 65   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 66   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 67   1.00 : 0.35 : 1.35 : iF.html
+ 68   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 69   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 70   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 71   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 72   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 73   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 74   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 75   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 76   1.00 : 0.26 : 1.26 : 44T.html
+ 77   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 78   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 79   1.00 : 0.26 : 1.26 : H1Zl.html
+ 80   1.00 : 0.26 : 1.26 : l8i.html
+ 81   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 82   1.00 : 0.24 : 1.24 : tAz.html
+ 83   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 84   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 85   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 86   1.00 : 0.11 : 1.11 : CGBF.html
+ 87   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 88   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 89   0.67 : 0.58 : 1.25 : P5O7Dg4pDux0OpE.html
+ 90   0.67 : 0.48 : 1.15 : WbAkNnUlmTqUT.html
+ 91   0.67 : 0.42 : 1.09 : YpnawHKVRr0RqEuFRf3a.html
+ 92   0.67 : 0.40 : 1.06 : oY0KSbEQ6ge3DoZATbeD.html
+ 93   0.67 : 0.38 : 1.05 : 2qj.html
+ 94   0.33 : 0.69 : 1.02 : JX.html
+ 95   0.33 : 0.52 : 0.85 : tU3SgGjo.html
+ 96   0.33 : 0.42 : 0.75 : SU1mE.html
+ 97   0.33 : 0.41 : 0.75 : qTs.html
+ 98   0.33 : 0.29 : 0.63 : 1LgVpEddZEFpu.html
+ 99   0.33 : 0.11 : 0.44 : pDF8Hn.html
+100   0.00 : 0.79 : 0.79 : bdbv.html
+101   0.00 : 0.53 : 0.53 : tURbVD4TRLz0LlIYK.html
+102   0.00 : 0.49 : 0.49 : gVaqCLWOmc.html
+103   0.00 : 0.44 : 0.44 : tL1P6.html
+104   0.00 : 0.42 : 0.42 : yPRH6FrLBVJKhY.html
+105   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+106   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+107   0.00 : 0.28 : 0.28 : TTchrX3CujZydlAAMFam.html
+108   0.00 : 0.19 : 0.19 : Io1tZ.html
+109   0.00 : 0.17 : 0.17 : LU7dXP.html
+
+<test case 5>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : Fyr.html
+ 25   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 26   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 27   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 28   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 29   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 30   1.00 : 0.54 : 1.54 : Cg.html
+ 31   1.00 : 0.53 : 1.53 : 5m.html
+ 32   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 33   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 34   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 35   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 36   1.00 : 0.52 : 1.52 : pjbX.html
+ 37   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 38   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 39   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 40   1.00 : 0.50 : 1.50 : w9.html
+ 41   1.00 : 0.50 : 1.50 : 5D.html
+ 42   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 43   1.00 : 0.50 : 1.50 : ds6uc.html
+ 44   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 45   1.00 : 0.47 : 1.47 : Locx.html
+ 46   1.00 : 0.47 : 1.47 : L8D.html
+ 47   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 48   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 49   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 50   1.00 : 0.44 : 1.44 : MD.html
+ 51   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 52   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 53   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 54   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 55   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 56   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 57   1.00 : 0.40 : 1.40 : 2Lg.html
+ 58   1.00 : 0.40 : 1.40 : dA.html
+ 59   1.00 : 0.40 : 1.40 : Fphne.html
+ 60   1.00 : 0.40 : 1.40 : oY0KSbEQ6ge3DoZATbeD.html
+ 61   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 62   1.00 : 0.38 : 1.38 : A2.html
+ 63   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 64   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 65   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 66   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 67   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 68   1.00 : 0.35 : 1.35 : iF.html
+ 69   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 70   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 71   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 72   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 73   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 74   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 75   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 76   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 77   1.00 : 0.26 : 1.26 : 44T.html
+ 78   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 79   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 80   1.00 : 0.26 : 1.26 : H1Zl.html
+ 81   1.00 : 0.26 : 1.26 : l8i.html
+ 82   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 83   1.00 : 0.24 : 1.24 : tAz.html
+ 84   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 85   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 86   1.00 : 0.11 : 1.11 : CGBF.html
+ 87   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 88   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 89   0.75 : 0.43 : 1.18 : RUTsrDZ4JW5rXDgaUkbT.html
+ 90   0.75 : 0.42 : 1.17 : yPRH6FrLBVJKhY.html
+ 91   0.75 : 0.29 : 1.04 : 1LgVpEddZEFpu.html
+ 92   0.75 : 0.28 : 1.03 : TTchrX3CujZydlAAMFam.html
+ 93   0.75 : 0.22 : 0.97 : XeoToFJvg6D9DVCji.html
+ 94   0.50 : 0.79 : 1.29 : bdbv.html
+ 95   0.50 : 0.69 : 1.19 : JX.html
+ 96   0.50 : 0.61 : 1.11 : 2oAc7.html
+ 97   0.50 : 0.49 : 0.99 : gVaqCLWOmc.html
+ 98   0.50 : 0.48 : 0.98 : WbAkNnUlmTqUT.html
+ 99   0.50 : 0.41 : 0.91 : qTs.html
+100   0.25 : 0.52 : 0.77 : tU3SgGjo.html
+101   0.25 : 0.44 : 0.69 : tL1P6.html
+102   0.25 : 0.42 : 0.67 : SU1mE.html
+103   0.25 : 0.38 : 0.63 : 2qj.html
+104   0.00 : 0.53 : 0.53 : tURbVD4TRLz0LlIYK.html
+105   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+106   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+107   0.00 : 0.19 : 0.19 : Io1tZ.html
+108   0.00 : 0.17 : 0.17 : LU7dXP.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 6>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 25   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 26   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 27   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 28   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 29   1.00 : 0.54 : 1.54 : Cg.html
+ 30   1.00 : 0.53 : 1.53 : 5m.html
+ 31   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 32   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 33   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 34   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 35   1.00 : 0.52 : 1.52 : pjbX.html
+ 36   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 37   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 38   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 39   1.00 : 0.50 : 1.50 : w9.html
+ 40   1.00 : 0.50 : 1.50 : 5D.html
+ 41   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 42   1.00 : 0.50 : 1.50 : ds6uc.html
+ 43   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 44   1.00 : 0.48 : 1.48 : WbAkNnUlmTqUT.html
+ 45   1.00 : 0.47 : 1.47 : Locx.html
+ 46   1.00 : 0.47 : 1.47 : L8D.html
+ 47   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 48   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 49   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 50   1.00 : 0.44 : 1.44 : MD.html
+ 51   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 52   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 53   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 54   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 55   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 56   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 57   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 58   1.00 : 0.40 : 1.40 : 2Lg.html
+ 59   1.00 : 0.40 : 1.40 : dA.html
+ 60   1.00 : 0.40 : 1.40 : Fphne.html
+ 61   1.00 : 0.40 : 1.40 : oY0KSbEQ6ge3DoZATbeD.html
+ 62   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 63   1.00 : 0.38 : 1.38 : A2.html
+ 64   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 65   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 66   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 67   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 68   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 69   1.00 : 0.35 : 1.35 : iF.html
+ 70   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 71   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 72   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 73   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 74   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 75   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 76   1.00 : 0.29 : 1.29 : 1LgVpEddZEFpu.html
+ 77   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 78   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 79   1.00 : 0.26 : 1.26 : 44T.html
+ 80   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 81   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 82   1.00 : 0.26 : 1.26 : H1Zl.html
+ 83   1.00 : 0.26 : 1.26 : l8i.html
+ 84   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 85   1.00 : 0.24 : 1.24 : tAz.html
+ 86   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 87   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 88   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 89   1.00 : 0.11 : 1.11 : CGBF.html
+ 90   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 91   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 92   0.80 : 0.61 : 1.41 : 2oAc7.html
+ 93   0.80 : 0.58 : 1.38 : Fyr.html
+ 94   0.80 : 0.41 : 1.21 : qTs.html
+ 95   0.80 : 0.38 : 1.18 : 2qj.html
+ 96   0.60 : 0.69 : 1.29 : JX.html
+ 97   0.40 : 0.53 : 0.93 : tURbVD4TRLz0LlIYK.html
+ 98   0.40 : 0.42 : 0.82 : yPRH6FrLBVJKhY.html
+ 99   0.40 : 0.28 : 0.68 : TTchrX3CujZydlAAMFam.html
+100   0.20 : 0.79 : 0.99 : bdbv.html
+101   0.20 : 0.52 : 0.72 : tU3SgGjo.html
+102   0.20 : 0.44 : 0.64 : tL1P6.html
+103   0.20 : 0.42 : 0.62 : SU1mE.html
+104   0.20 : 0.33 : 0.53 : ijmkrLRJRKtv.html
+105   0.20 : 0.17 : 0.37 : LU7dXP.html
+106   0.00 : 0.49 : 0.49 : gVaqCLWOmc.html
+107   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+108   0.00 : 0.19 : 0.19 : Io1tZ.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 7>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  8   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+  9   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 10   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.66 : 1.66 : fov.html
+ 14   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 15   1.00 : 0.64 : 1.64 : wed.html
+ 16   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 17   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 18   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 19   1.00 : 0.61 : 1.61 : 2oAc7.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 25   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 26   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 27   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 28   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 29   1.00 : 0.54 : 1.54 : Cg.html
+ 30   1.00 : 0.53 : 1.53 : 5m.html
+ 31   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 32   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 33   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 34   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 35   1.00 : 0.52 : 1.52 : pjbX.html
+ 36   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 37   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 38   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 39   1.00 : 0.50 : 1.50 : w9.html
+ 40   1.00 : 0.50 : 1.50 : 5D.html
+ 41   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 42   1.00 : 0.50 : 1.50 : ds6uc.html
+ 43   1.00 : 0.47 : 1.47 : Locx.html
+ 44   1.00 : 0.47 : 1.47 : L8D.html
+ 45   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 46   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 47   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 48   1.00 : 0.44 : 1.44 : MD.html
+ 49   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 50   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 51   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 52   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 53   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 54   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 55   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 56   1.00 : 0.40 : 1.40 : 2Lg.html
+ 57   1.00 : 0.40 : 1.40 : dA.html
+ 58   1.00 : 0.40 : 1.40 : Fphne.html
+ 59   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 60   1.00 : 0.38 : 1.38 : A2.html
+ 61   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 62   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 63   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 64   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 65   1.00 : 0.35 : 1.35 : iF.html
+ 66   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 67   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 68   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 69   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 70   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 71   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 72   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 73   1.00 : 0.26 : 1.26 : 44T.html
+ 74   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 75   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 76   1.00 : 0.26 : 1.26 : H1Zl.html
+ 77   1.00 : 0.26 : 1.26 : l8i.html
+ 78   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 79   1.00 : 0.24 : 1.24 : tAz.html
+ 80   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 81   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 82   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 83   1.00 : 0.11 : 1.11 : CGBF.html
+ 84   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 85   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 86   0.83 : 0.71 : 1.55 : w6uRx316n.html
+ 87   0.83 : 0.58 : 1.41 : Fyr.html
+ 88   0.83 : 0.49 : 1.33 : ktEazua8wR1aP.html
+ 89   0.83 : 0.41 : 1.25 : qTs.html
+ 90   0.83 : 0.37 : 1.20 : BXz1N7TRnUS6eK.html
+ 91   0.83 : 0.32 : 1.15 : nFD7Wzry.html
+ 92   0.83 : 0.29 : 1.13 : 1LgVpEddZEFpu.html
+ 93   0.67 : 0.49 : 1.16 : gVaqCLWOmc.html
+ 94   0.50 : 0.69 : 1.19 : JX.html
+ 95   0.50 : 0.53 : 1.03 : tURbVD4TRLz0LlIYK.html
+ 96   0.50 : 0.40 : 0.90 : oY0KSbEQ6ge3DoZATbeD.html
+ 97   0.50 : 0.38 : 0.88 : 2qj.html
+ 98   0.33 : 0.52 : 0.85 : tU3SgGjo.html
+ 99   0.33 : 0.48 : 0.82 : WbAkNnUlmTqUT.html
+100   0.33 : 0.44 : 0.78 : tL1P6.html
+101   0.17 : 0.79 : 0.96 : bdbv.html
+102   0.17 : 0.42 : 0.59 : SU1mE.html
+103   0.17 : 0.42 : 0.59 : yPRH6FrLBVJKhY.html
+104   0.17 : 0.28 : 0.44 : TTchrX3CujZydlAAMFam.html
+105   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+106   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+107   0.00 : 0.19 : 0.19 : Io1tZ.html
+108   0.00 : 0.17 : 0.17 : LU7dXP.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 8>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 25   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 26   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 27   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 28   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 29   1.00 : 0.54 : 1.54 : Cg.html
+ 30   1.00 : 0.53 : 1.53 : 5m.html
+ 31   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 32   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 33   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 34   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 35   1.00 : 0.52 : 1.52 : pjbX.html
+ 36   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 37   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 38   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 39   1.00 : 0.50 : 1.50 : w9.html
+ 40   1.00 : 0.50 : 1.50 : 5D.html
+ 41   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 42   1.00 : 0.50 : 1.50 : ds6uc.html
+ 43   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 44   1.00 : 0.48 : 1.48 : WbAkNnUlmTqUT.html
+ 45   1.00 : 0.47 : 1.47 : Locx.html
+ 46   1.00 : 0.47 : 1.47 : L8D.html
+ 47   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 48   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 49   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 50   1.00 : 0.44 : 1.44 : MD.html
+ 51   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 52   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 53   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 54   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 55   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 56   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 57   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 58   1.00 : 0.40 : 1.40 : 2Lg.html
+ 59   1.00 : 0.40 : 1.40 : dA.html
+ 60   1.00 : 0.40 : 1.40 : Fphne.html
+ 61   1.00 : 0.38 : 1.38 : A2.html
+ 62   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 63   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 64   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 65   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 66   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 67   1.00 : 0.35 : 1.35 : iF.html
+ 68   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 69   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 70   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 71   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 72   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 73   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 74   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 75   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 76   1.00 : 0.26 : 1.26 : 44T.html
+ 77   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 78   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 79   1.00 : 0.26 : 1.26 : H1Zl.html
+ 80   1.00 : 0.26 : 1.26 : l8i.html
+ 81   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 82   1.00 : 0.24 : 1.24 : tAz.html
+ 83   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 84   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 85   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 86   1.00 : 0.11 : 1.11 : CGBF.html
+ 87   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 88   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 89   0.86 : 0.61 : 1.47 : 2oAc7.html
+ 90   0.86 : 0.58 : 1.44 : Fyr.html
+ 91   0.86 : 0.40 : 1.25 : oY0KSbEQ6ge3DoZATbeD.html
+ 92   0.86 : 0.39 : 1.25 : 8Zp2hG.html
+ 93   0.86 : 0.38 : 1.24 : 2qj.html
+ 94   0.71 : 0.29 : 1.01 : 1LgVpEddZEFpu.html
+ 95   0.57 : 0.49 : 1.06 : gVaqCLWOmc.html
+ 96   0.57 : 0.41 : 0.98 : qTs.html
+ 97   0.43 : 0.69 : 1.12 : JX.html
+ 98   0.43 : 0.42 : 0.85 : yPRH6FrLBVJKhY.html
+ 99   0.29 : 0.79 : 1.07 : bdbv.html
+100   0.29 : 0.44 : 0.73 : tL1P6.html
+101   0.29 : 0.42 : 0.71 : SU1mE.html
+102   0.29 : 0.28 : 0.56 : TTchrX3CujZydlAAMFam.html
+103   0.14 : 0.53 : 0.67 : tURbVD4TRLz0LlIYK.html
+104   0.14 : 0.52 : 0.66 : tU3SgGjo.html
+105   0.14 : 0.19 : 0.33 : Io1tZ.html
+106   0.14 : 0.17 : 0.32 : LU7dXP.html
+107   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+108   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 9>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 16   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 17   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 18   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 19   1.00 : 0.60 : 1.60 : Vpm.html
+ 20   1.00 : 0.58 : 1.58 : xLBtf.html
+ 21   1.00 : 0.58 : 1.58 : UdgfV.html
+ 22   1.00 : 0.58 : 1.58 : Fyr.html
+ 23   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.53 : 1.53 : 5m.html
+ 29   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 30   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 31   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 32   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 33   1.00 : 0.52 : 1.52 : pjbX.html
+ 34   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 35   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 36   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 37   1.00 : 0.50 : 1.50 : w9.html
+ 38   1.00 : 0.50 : 1.50 : 5D.html
+ 39   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 40   1.00 : 0.50 : 1.50 : ds6uc.html
+ 41   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 42   1.00 : 0.47 : 1.47 : Locx.html
+ 43   1.00 : 0.47 : 1.47 : L8D.html
+ 44   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 45   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 46   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 47   1.00 : 0.44 : 1.44 : MD.html
+ 48   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 49   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 50   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 51   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 52   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 53   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 54   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 55   1.00 : 0.40 : 1.40 : 2Lg.html
+ 56   1.00 : 0.40 : 1.40 : dA.html
+ 57   1.00 : 0.40 : 1.40 : Fphne.html
+ 58   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 59   1.00 : 0.38 : 1.38 : A2.html
+ 60   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 61   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 62   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 63   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 64   1.00 : 0.35 : 1.35 : iF.html
+ 65   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 66   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 67   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 68   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 69   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 70   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 71   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 72   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 73   1.00 : 0.26 : 1.26 : 44T.html
+ 74   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 75   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 76   1.00 : 0.26 : 1.26 : H1Zl.html
+ 77   1.00 : 0.26 : 1.26 : l8i.html
+ 78   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 79   1.00 : 0.24 : 1.24 : tAz.html
+ 80   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 81   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 82   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 83   1.00 : 0.11 : 1.11 : CGBF.html
+ 84   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 85   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 86   0.88 : 0.65 : 1.52 : AplRYmaNKPj70G4QVgGd.html
+ 87   0.88 : 0.64 : 1.52 : wed.html
+ 88   0.88 : 0.56 : 1.44 : w5oOOY.html
+ 89   0.88 : 0.48 : 1.36 : WbAkNnUlmTqUT.html
+ 90   0.88 : 0.37 : 1.24 : IEpmkw8DGLQc6ZC6XY.html
+ 91   0.88 : 0.29 : 1.17 : 1LgVpEddZEFpu.html
+ 92   0.75 : 0.41 : 1.16 : qTs.html
+ 93   0.75 : 0.40 : 1.15 : oY0KSbEQ6ge3DoZATbeD.html
+ 94   0.50 : 0.61 : 1.11 : 2oAc7.html
+ 95   0.50 : 0.38 : 0.88 : 2qj.html
+ 96   0.38 : 0.44 : 0.82 : tL1P6.html
+ 97   0.38 : 0.28 : 0.65 : TTchrX3CujZydlAAMFam.html
+ 98   0.38 : 0.19 : 0.56 : Io1tZ.html
+ 99   0.25 : 0.49 : 0.74 : gVaqCLWOmc.html
+100   0.25 : 0.33 : 0.58 : ijmkrLRJRKtv.html
+101   0.25 : 0.17 : 0.42 : LU7dXP.html
+102   0.12 : 0.69 : 0.81 : JX.html
+103   0.12 : 0.53 : 0.65 : tURbVD4TRLz0LlIYK.html
+104   0.12 : 0.42 : 0.55 : SU1mE.html
+105   0.00 : 0.79 : 0.79 : bdbv.html
+106   0.00 : 0.52 : 0.52 : tU3SgGjo.html
+107   0.00 : 0.42 : 0.42 : yPRH6FrLBVJKhY.html
+108   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 10>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 25   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 26   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 27   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 28   1.00 : 0.54 : 1.54 : Cg.html
+ 29   1.00 : 0.53 : 1.53 : 5m.html
+ 30   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 31   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 32   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 33   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 34   1.00 : 0.52 : 1.52 : pjbX.html
+ 35   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 36   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 37   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 38   1.00 : 0.50 : 1.50 : w9.html
+ 39   1.00 : 0.50 : 1.50 : 5D.html
+ 40   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 41   1.00 : 0.50 : 1.50 : ds6uc.html
+ 42   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 43   1.00 : 0.47 : 1.47 : Locx.html
+ 44   1.00 : 0.47 : 1.47 : L8D.html
+ 45   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 46   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 47   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 48   1.00 : 0.44 : 1.44 : MD.html
+ 49   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 50   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 51   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 52   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 53   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 54   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 55   1.00 : 0.40 : 1.40 : 2Lg.html
+ 56   1.00 : 0.40 : 1.40 : Fphne.html
+ 57   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 58   1.00 : 0.38 : 1.38 : A2.html
+ 59   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 60   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 61   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 62   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 63   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 64   1.00 : 0.35 : 1.35 : iF.html
+ 65   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 66   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 67   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 68   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 69   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 70   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 71   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 72   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 73   1.00 : 0.26 : 1.26 : 44T.html
+ 74   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 75   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 76   1.00 : 0.26 : 1.26 : H1Zl.html
+ 77   1.00 : 0.26 : 1.26 : l8i.html
+ 78   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 79   1.00 : 0.24 : 1.24 : tAz.html
+ 80   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 81   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 82   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 83   1.00 : 0.11 : 1.11 : CGBF.html
+ 84   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 85   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 86   0.89 : 0.58 : 1.47 : Fyr.html
+ 87   0.89 : 0.42 : 1.31 : mBW9epfH0W0z.html
+ 88   0.89 : 0.40 : 1.29 : dA.html
+ 89   0.89 : 0.40 : 1.28 : oY0KSbEQ6ge3DoZATbeD.html
+ 90   0.89 : 0.29 : 1.18 : 1LgVpEddZEFpu.html
+ 91   0.78 : 0.56 : 1.34 : w5oOOY.html
+ 92   0.78 : 0.41 : 1.19 : qTs.html
+ 93   0.67 : 0.48 : 1.15 : WbAkNnUlmTqUT.html
+ 94   0.56 : 0.38 : 0.93 : 2qj.html
+ 95   0.44 : 0.69 : 1.13 : JX.html
+ 96   0.44 : 0.42 : 0.86 : yPRH6FrLBVJKhY.html
+ 97   0.33 : 0.61 : 0.95 : 2oAc7.html
+ 98   0.22 : 0.44 : 0.67 : tL1P6.html
+ 99   0.22 : 0.28 : 0.50 : TTchrX3CujZydlAAMFam.html
+100   0.11 : 0.53 : 0.64 : tURbVD4TRLz0LlIYK.html
+101   0.11 : 0.52 : 0.63 : tU3SgGjo.html
+102   0.11 : 0.49 : 0.60 : gVaqCLWOmc.html
+103   0.11 : 0.30 : 0.41 : eJhI3Pi8WQEwcE2Bl.html
+104   0.11 : 0.19 : 0.30 : Io1tZ.html
+105   0.11 : 0.17 : 0.28 : LU7dXP.html
+106   0.00 : 0.79 : 0.79 : bdbv.html
+107   0.00 : 0.42 : 0.42 : SU1mE.html
+108   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 11>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  6   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  7   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  8   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+  9   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 10   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 11   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 12   1.00 : 0.66 : 1.66 : fov.html
+ 13   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 14   1.00 : 0.64 : 1.64 : wed.html
+ 15   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 16   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 17   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 18   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 19   1.00 : 0.60 : 1.60 : Vpm.html
+ 20   1.00 : 0.58 : 1.58 : xLBtf.html
+ 21   1.00 : 0.58 : 1.58 : UdgfV.html
+ 22   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 23   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 24   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 25   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 26   1.00 : 0.54 : 1.54 : Cg.html
+ 27   1.00 : 0.53 : 1.53 : 5m.html
+ 28   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 29   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 30   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 31   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 32   1.00 : 0.52 : 1.52 : pjbX.html
+ 33   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 34   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 35   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 36   1.00 : 0.50 : 1.50 : w9.html
+ 37   1.00 : 0.50 : 1.50 : 5D.html
+ 38   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 39   1.00 : 0.50 : 1.50 : ds6uc.html
+ 40   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 41   1.00 : 0.47 : 1.47 : Locx.html
+ 42   1.00 : 0.47 : 1.47 : L8D.html
+ 43   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 44   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 45   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 46   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 47   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 48   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 49   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 50   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 51   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 52   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 53   1.00 : 0.40 : 1.40 : 2Lg.html
+ 54   1.00 : 0.40 : 1.40 : dA.html
+ 55   1.00 : 0.40 : 1.40 : Fphne.html
+ 56   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 57   1.00 : 0.38 : 1.38 : A2.html
+ 58   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 59   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 60   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 61   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 62   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 63   1.00 : 0.35 : 1.35 : iF.html
+ 64   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 65   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 66   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 67   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 68   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 69   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 70   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 71   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 72   1.00 : 0.26 : 1.26 : 44T.html
+ 73   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 74   1.00 : 0.26 : 1.26 : H1Zl.html
+ 75   1.00 : 0.26 : 1.26 : l8i.html
+ 76   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 77   1.00 : 0.24 : 1.24 : tAz.html
+ 78   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 79   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 80   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 81   1.00 : 0.11 : 1.11 : CGBF.html
+ 82   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 83   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 84   0.90 : 0.84 : 1.74 : BIXJat10.html
+ 85   0.90 : 0.70 : 1.60 : y9b5OECyA.html
+ 86   0.90 : 0.58 : 1.48 : Fyr.html
+ 87   0.90 : 0.56 : 1.46 : w5oOOY.html
+ 88   0.90 : 0.44 : 1.34 : MD.html
+ 89   0.90 : 0.40 : 1.30 : oY0KSbEQ6ge3DoZATbeD.html
+ 90   0.90 : 0.26 : 1.16 : qgVN7XbLjB9rI.html
+ 91   0.80 : 0.29 : 1.09 : 1LgVpEddZEFpu.html
+ 92   0.70 : 0.48 : 1.18 : WbAkNnUlmTqUT.html
+ 93   0.70 : 0.41 : 1.11 : qTs.html
+ 94   0.50 : 0.69 : 1.19 : JX.html
+ 95   0.50 : 0.61 : 1.11 : 2oAc7.html
+ 96   0.50 : 0.28 : 0.78 : TTchrX3CujZydlAAMFam.html
+ 97   0.40 : 0.38 : 0.78 : 2qj.html
+ 98   0.30 : 0.53 : 0.83 : tURbVD4TRLz0LlIYK.html
+ 99   0.30 : 0.17 : 0.47 : LU7dXP.html
+100   0.20 : 0.52 : 0.72 : tU3SgGjo.html
+101   0.20 : 0.49 : 0.69 : gVaqCLWOmc.html
+102   0.20 : 0.42 : 0.62 : yPRH6FrLBVJKhY.html
+103   0.10 : 0.44 : 0.54 : tL1P6.html
+104   0.10 : 0.19 : 0.29 : Io1tZ.html
+105   0.00 : 0.79 : 0.79 : bdbv.html
+106   0.00 : 0.42 : 0.42 : SU1mE.html
+107   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+108   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 12>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.53 : 1.53 : 5m.html
+ 29   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 30   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 31   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 32   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 33   1.00 : 0.52 : 1.52 : pjbX.html
+ 34   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 35   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 36   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 37   1.00 : 0.50 : 1.50 : w9.html
+ 38   1.00 : 0.50 : 1.50 : 5D.html
+ 39   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 40   1.00 : 0.50 : 1.50 : ds6uc.html
+ 41   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 42   1.00 : 0.47 : 1.47 : Locx.html
+ 43   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 44   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 45   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 46   1.00 : 0.44 : 1.44 : MD.html
+ 47   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 48   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 49   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 50   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 51   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 52   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 53   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 54   1.00 : 0.40 : 1.40 : 2Lg.html
+ 55   1.00 : 0.40 : 1.40 : dA.html
+ 56   1.00 : 0.40 : 1.40 : Fphne.html
+ 57   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 58   1.00 : 0.38 : 1.38 : A2.html
+ 59   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 60   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 61   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 62   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 63   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 64   1.00 : 0.35 : 1.35 : iF.html
+ 65   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 66   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 67   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 68   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 69   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 70   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 71   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 72   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 73   1.00 : 0.26 : 1.26 : 44T.html
+ 74   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 75   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 76   1.00 : 0.26 : 1.26 : H1Zl.html
+ 77   1.00 : 0.26 : 1.26 : l8i.html
+ 78   1.00 : 0.24 : 1.24 : tAz.html
+ 79   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 80   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 81   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 82   1.00 : 0.11 : 1.11 : CGBF.html
+ 83   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 84   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 85   0.91 : 0.58 : 1.49 : P5O7Dg4pDux0OpE.html
+ 86   0.91 : 0.56 : 1.47 : w5oOOY.html
+ 87   0.91 : 0.47 : 1.38 : L8D.html
+ 88   0.91 : 0.26 : 1.16 : M2wfDzI6m1GENC.html
+ 89   0.73 : 0.61 : 1.34 : 2oAc7.html
+ 90   0.73 : 0.58 : 1.31 : Fyr.html
+ 91   0.73 : 0.48 : 1.21 : WbAkNnUlmTqUT.html
+ 92   0.73 : 0.38 : 1.11 : 2qj.html
+ 93   0.64 : 0.29 : 0.93 : 1LgVpEddZEFpu.html
+ 94   0.55 : 0.41 : 0.96 : qTs.html
+ 95   0.45 : 0.40 : 0.85 : oY0KSbEQ6ge3DoZATbeD.html
+ 96   0.36 : 0.69 : 1.05 : JX.html
+ 97   0.36 : 0.44 : 0.81 : tL1P6.html
+ 98   0.27 : 0.79 : 1.06 : bdbv.html
+ 99   0.27 : 0.42 : 0.69 : SU1mE.html
+100   0.18 : 0.53 : 0.71 : tURbVD4TRLz0LlIYK.html
+101   0.18 : 0.49 : 0.67 : gVaqCLWOmc.html
+102   0.18 : 0.42 : 0.60 : yPRH6FrLBVJKhY.html
+103   0.18 : 0.28 : 0.46 : TTchrX3CujZydlAAMFam.html
+104   0.09 : 0.52 : 0.61 : tU3SgGjo.html
+105   0.09 : 0.19 : 0.28 : Io1tZ.html
+106   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+107   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+108   0.00 : 0.17 : 0.17 : LU7dXP.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 13>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 20   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 21   1.00 : 0.60 : 1.60 : Vpm.html
+ 22   1.00 : 0.58 : 1.58 : xLBtf.html
+ 23   1.00 : 0.58 : 1.58 : UdgfV.html
+ 24   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 25   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 26   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 27   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 28   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 29   1.00 : 0.54 : 1.54 : Cg.html
+ 30   1.00 : 0.53 : 1.53 : 5m.html
+ 31   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 32   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 33   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 34   1.00 : 0.52 : 1.52 : pjbX.html
+ 35   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 36   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 37   1.00 : 0.50 : 1.50 : w9.html
+ 38   1.00 : 0.50 : 1.50 : 5D.html
+ 39   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 40   1.00 : 0.50 : 1.50 : ds6uc.html
+ 41   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 42   1.00 : 0.47 : 1.47 : Locx.html
+ 43   1.00 : 0.47 : 1.47 : L8D.html
+ 44   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 45   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 46   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 47   1.00 : 0.44 : 1.44 : MD.html
+ 48   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 49   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 50   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 51   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 52   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 53   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 54   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 55   1.00 : 0.40 : 1.40 : 2Lg.html
+ 56   1.00 : 0.40 : 1.40 : dA.html
+ 57   1.00 : 0.40 : 1.40 : Fphne.html
+ 58   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 59   1.00 : 0.38 : 1.38 : A2.html
+ 60   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 61   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 62   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 63   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 64   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 65   1.00 : 0.35 : 1.35 : iF.html
+ 66   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 67   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 68   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 69   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 70   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 71   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 72   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 73   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 74   1.00 : 0.26 : 1.26 : 44T.html
+ 75   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 76   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 77   1.00 : 0.26 : 1.26 : H1Zl.html
+ 78   1.00 : 0.26 : 1.26 : l8i.html
+ 79   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 80   1.00 : 0.24 : 1.24 : tAz.html
+ 81   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 82   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 83   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 84   1.00 : 0.11 : 1.11 : CGBF.html
+ 85   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 86   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 87   0.92 : 0.52 : 1.44 : HgqFxy2FmaeqV.html
+ 88   0.92 : 0.51 : 1.43 : 2kyuEQU0skvOzCDnsgfv.html
+ 89   0.83 : 0.58 : 1.41 : Fyr.html
+ 90   0.83 : 0.40 : 1.23 : oY0KSbEQ6ge3DoZATbeD.html
+ 91   0.83 : 0.29 : 1.13 : 1LgVpEddZEFpu.html
+ 92   0.67 : 0.61 : 1.28 : 2oAc7.html
+ 93   0.67 : 0.48 : 1.15 : WbAkNnUlmTqUT.html
+ 94   0.67 : 0.41 : 1.08 : qTs.html
+ 95   0.58 : 0.38 : 0.96 : 2qj.html
+ 96   0.50 : 0.69 : 1.19 : JX.html
+ 97   0.42 : 0.79 : 1.21 : bdbv.html
+ 98   0.42 : 0.42 : 0.84 : yPRH6FrLBVJKhY.html
+ 99   0.25 : 0.49 : 0.74 : gVaqCLWOmc.html
+100   0.25 : 0.19 : 0.44 : Io1tZ.html
+101   0.17 : 0.42 : 0.59 : SU1mE.html
+102   0.08 : 0.52 : 0.60 : tU3SgGjo.html
+103   0.08 : 0.28 : 0.36 : TTchrX3CujZydlAAMFam.html
+104   0.00 : 0.53 : 0.53 : tURbVD4TRLz0LlIYK.html
+105   0.00 : 0.44 : 0.44 : tL1P6.html
+106   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+107   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+108   0.00 : 0.17 : 0.17 : LU7dXP.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 14>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.66 : 1.66 : fov.html
+ 14   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 15   1.00 : 0.64 : 1.64 : wed.html
+ 16   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 17   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 18   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 19   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 20   1.00 : 0.60 : 1.60 : Vpm.html
+ 21   1.00 : 0.58 : 1.58 : xLBtf.html
+ 22   1.00 : 0.58 : 1.58 : UdgfV.html
+ 23   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.53 : 1.53 : 5m.html
+ 29   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 30   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 31   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 32   1.00 : 0.52 : 1.52 : pjbX.html
+ 33   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 34   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 35   1.00 : 0.50 : 1.50 : w9.html
+ 36   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 37   1.00 : 0.50 : 1.50 : ds6uc.html
+ 38   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 39   1.00 : 0.48 : 1.48 : WbAkNnUlmTqUT.html
+ 40   1.00 : 0.47 : 1.47 : Locx.html
+ 41   1.00 : 0.47 : 1.47 : L8D.html
+ 42   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 43   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 44   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 45   1.00 : 0.44 : 1.44 : MD.html
+ 46   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 47   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 48   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 49   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 50   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 51   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 52   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 53   1.00 : 0.40 : 1.40 : dA.html
+ 54   1.00 : 0.40 : 1.40 : Fphne.html
+ 55   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 56   1.00 : 0.38 : 1.38 : A2.html
+ 57   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 58   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 59   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 60   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 61   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 62   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 63   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 64   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 65   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 66   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 67   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 68   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 69   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 70   1.00 : 0.26 : 1.26 : 44T.html
+ 71   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 72   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 73   1.00 : 0.26 : 1.26 : H1Zl.html
+ 74   1.00 : 0.26 : 1.26 : l8i.html
+ 75   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 76   1.00 : 0.24 : 1.24 : tAz.html
+ 77   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 78   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 79   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 80   1.00 : 0.11 : 1.11 : CGBF.html
+ 81   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 82   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 83   0.92 : 0.69 : 1.62 : QEFgnjjwZ19NlgFVRLI.html
+ 84   0.92 : 0.56 : 1.48 : w5oOOY.html
+ 85   0.92 : 0.52 : 1.44 : yjCEaLwW.html
+ 86   0.92 : 0.51 : 1.43 : aTqhZIAEEc.html
+ 87   0.92 : 0.50 : 1.42 : 5D.html
+ 88   0.92 : 0.40 : 1.33 : 2Lg.html
+ 89   0.92 : 0.35 : 1.27 : iF.html
+ 90   0.85 : 0.58 : 1.43 : Fyr.html
+ 91   0.69 : 0.41 : 1.10 : qTs.html
+ 92   0.69 : 0.40 : 1.09 : oY0KSbEQ6ge3DoZATbeD.html
+ 93   0.69 : 0.38 : 1.07 : 2qj.html
+ 94   0.62 : 0.69 : 1.31 : JX.html
+ 95   0.62 : 0.61 : 1.23 : 2oAc7.html
+ 96   0.62 : 0.29 : 0.91 : 1LgVpEddZEFpu.html
+ 97   0.46 : 0.79 : 1.25 : bdbv.html
+ 98   0.38 : 0.28 : 0.66 : TTchrX3CujZydlAAMFam.html
+ 99   0.31 : 0.42 : 0.73 : yPRH6FrLBVJKhY.html
+100   0.23 : 0.52 : 0.75 : tU3SgGjo.html
+101   0.23 : 0.44 : 0.67 : tL1P6.html
+102   0.15 : 0.53 : 0.68 : tURbVD4TRLz0LlIYK.html
+103   0.15 : 0.49 : 0.64 : gVaqCLWOmc.html
+104   0.15 : 0.42 : 0.57 : SU1mE.html
+105   0.15 : 0.33 : 0.48 : ijmkrLRJRKtv.html
+106   0.15 : 0.19 : 0.34 : Io1tZ.html
+107   0.08 : 0.17 : 0.25 : LU7dXP.html
+108   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 15>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+ 10   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 11   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 12   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 13   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 14   1.00 : 0.66 : 1.66 : fov.html
+ 15   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 16   1.00 : 0.64 : 1.64 : wed.html
+ 17   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 18   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 19   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 20   1.00 : 0.60 : 1.60 : Vpm.html
+ 21   1.00 : 0.58 : 1.58 : xLBtf.html
+ 22   1.00 : 0.58 : 1.58 : UdgfV.html
+ 23   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 29   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 30   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 31   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 32   1.00 : 0.52 : 1.52 : pjbX.html
+ 33   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 34   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 35   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 36   1.00 : 0.50 : 1.50 : 5D.html
+ 37   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 38   1.00 : 0.50 : 1.50 : ds6uc.html
+ 39   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 40   1.00 : 0.47 : 1.47 : Locx.html
+ 41   1.00 : 0.47 : 1.47 : L8D.html
+ 42   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 43   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 44   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 45   1.00 : 0.44 : 1.44 : MD.html
+ 46   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 47   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 48   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 49   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 50   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 51   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 52   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 53   1.00 : 0.40 : 1.40 : 2Lg.html
+ 54   1.00 : 0.40 : 1.40 : dA.html
+ 55   1.00 : 0.40 : 1.40 : Fphne.html
+ 56   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 57   1.00 : 0.38 : 1.38 : A2.html
+ 58   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 59   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 60   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 61   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 62   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 63   1.00 : 0.35 : 1.35 : iF.html
+ 64   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 65   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 66   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 67   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 68   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 69   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 70   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 71   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 72   1.00 : 0.26 : 1.26 : 44T.html
+ 73   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 74   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 75   1.00 : 0.26 : 1.26 : H1Zl.html
+ 76   1.00 : 0.26 : 1.26 : l8i.html
+ 77   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 78   1.00 : 0.24 : 1.24 : tAz.html
+ 79   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 80   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 81   1.00 : 0.11 : 1.11 : CGBF.html
+ 82   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 83   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 84   0.93 : 0.62 : 1.55 : n7XQLe.html
+ 85   0.93 : 0.57 : 1.50 : y3ylcavd22KB.html
+ 86   0.93 : 0.50 : 1.43 : w9.html
+ 87   0.93 : 0.38 : 1.31 : 2qj.html
+ 88   0.93 : 0.29 : 1.22 : 1LgVpEddZEFpu.html
+ 89   0.93 : 0.24 : 1.17 : CmqUjwzaM4AB4dzq.html
+ 90   0.86 : 0.61 : 1.47 : 2oAc7.html
+ 91   0.86 : 0.58 : 1.44 : Fyr.html
+ 92   0.86 : 0.53 : 1.39 : 5m.html
+ 93   0.71 : 0.41 : 1.13 : qTs.html
+ 94   0.64 : 0.48 : 1.13 : WbAkNnUlmTqUT.html
+ 95   0.64 : 0.40 : 1.04 : oY0KSbEQ6ge3DoZATbeD.html
+ 96   0.57 : 0.69 : 1.26 : JX.html
+ 97   0.36 : 0.52 : 0.88 : tU3SgGjo.html
+ 98   0.36 : 0.44 : 0.80 : tL1P6.html
+ 99   0.36 : 0.42 : 0.78 : yPRH6FrLBVJKhY.html
+100   0.29 : 0.79 : 1.07 : bdbv.html
+101   0.14 : 0.49 : 0.63 : gVaqCLWOmc.html
+102   0.14 : 0.17 : 0.32 : LU7dXP.html
+103   0.07 : 0.53 : 0.60 : tURbVD4TRLz0LlIYK.html
+104   0.07 : 0.42 : 0.49 : SU1mE.html
+105   0.07 : 0.19 : 0.26 : Io1tZ.html
+106   0.07 : 0.11 : 0.18 : pDF8Hn.html
+107   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+108   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.28 : 0.28 : TTchrX3CujZydlAAMFam.html
+
+<test case 16>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 10   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 14   1.00 : 0.64 : 1.64 : wed.html
+ 15   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 16   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 17   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 18   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 19   1.00 : 0.60 : 1.60 : Vpm.html
+ 20   1.00 : 0.58 : 1.58 : xLBtf.html
+ 21   1.00 : 0.58 : 1.58 : UdgfV.html
+ 22   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 23   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 24   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 25   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 26   1.00 : 0.54 : 1.54 : Cg.html
+ 27   1.00 : 0.53 : 1.53 : 5m.html
+ 28   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 29   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 30   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 31   1.00 : 0.52 : 1.52 : pjbX.html
+ 32   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 33   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 34   1.00 : 0.50 : 1.50 : w9.html
+ 35   1.00 : 0.50 : 1.50 : 5D.html
+ 36   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 37   1.00 : 0.50 : 1.50 : ds6uc.html
+ 38   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 39   1.00 : 0.47 : 1.47 : Locx.html
+ 40   1.00 : 0.47 : 1.47 : L8D.html
+ 41   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 42   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 43   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 44   1.00 : 0.44 : 1.44 : MD.html
+ 45   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 46   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 47   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 48   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 49   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 50   1.00 : 0.40 : 1.40 : 2Lg.html
+ 51   1.00 : 0.40 : 1.40 : dA.html
+ 52   1.00 : 0.40 : 1.40 : Fphne.html
+ 53   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 54   1.00 : 0.38 : 1.38 : A2.html
+ 55   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 56   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 57   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 58   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 59   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 60   1.00 : 0.35 : 1.35 : iF.html
+ 61   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 62   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 63   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 64   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 65   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 66   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 67   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 68   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 69   1.00 : 0.26 : 1.26 : 44T.html
+ 70   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 71   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 72   1.00 : 0.26 : 1.26 : H1Zl.html
+ 73   1.00 : 0.26 : 1.26 : l8i.html
+ 74   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 75   1.00 : 0.24 : 1.24 : tAz.html
+ 76   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 77   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 78   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 79   1.00 : 0.11 : 1.11 : CGBF.html
+ 80   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 81   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 82   0.93 : 0.70 : 1.64 : y9b5OECyA.html
+ 83   0.93 : 0.66 : 1.60 : fov.html
+ 84   0.93 : 0.58 : 1.51 : Fyr.html
+ 85   0.93 : 0.52 : 1.45 : HgqFxy2FmaeqV.html
+ 86   0.93 : 0.51 : 1.44 : 2kyuEQU0skvOzCDnsgfv.html
+ 87   0.93 : 0.42 : 1.35 : YpnawHKVRr0RqEuFRf3a.html
+ 88   0.93 : 0.41 : 1.34 : ORJwprCgYgaETpCOhfvN.html
+ 89   0.93 : 0.40 : 1.33 : oY0KSbEQ6ge3DoZATbeD.html
+ 90   0.87 : 0.56 : 1.43 : w5oOOY.html
+ 91   0.80 : 0.48 : 1.28 : WbAkNnUlmTqUT.html
+ 92   0.73 : 0.29 : 1.03 : 1LgVpEddZEFpu.html
+ 93   0.60 : 0.61 : 1.21 : 2oAc7.html
+ 94   0.53 : 0.69 : 1.22 : JX.html
+ 95   0.53 : 0.41 : 0.95 : qTs.html
+ 96   0.53 : 0.38 : 0.91 : 2qj.html
+ 97   0.33 : 0.28 : 0.61 : TTchrX3CujZydlAAMFam.html
+ 98   0.27 : 0.52 : 0.78 : tU3SgGjo.html
+ 99   0.27 : 0.42 : 0.69 : yPRH6FrLBVJKhY.html
+100   0.20 : 0.79 : 0.99 : bdbv.html
+101   0.20 : 0.49 : 0.69 : gVaqCLWOmc.html
+102   0.20 : 0.44 : 0.64 : tL1P6.html
+103   0.20 : 0.42 : 0.62 : SU1mE.html
+104   0.20 : 0.17 : 0.37 : LU7dXP.html
+105   0.13 : 0.53 : 0.66 : tURbVD4TRLz0LlIYK.html
+106   0.07 : 0.33 : 0.39 : ijmkrLRJRKtv.html
+107   0.07 : 0.19 : 0.25 : Io1tZ.html
+108   0.07 : 0.11 : 0.18 : pDF8Hn.html
+109   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+
+<test case 17>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 10   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.66 : 1.66 : fov.html
+ 14   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 15   1.00 : 0.64 : 1.64 : wed.html
+ 16   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 17   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 18   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 19   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 20   1.00 : 0.60 : 1.60 : Vpm.html
+ 21   1.00 : 0.58 : 1.58 : xLBtf.html
+ 22   1.00 : 0.58 : 1.58 : UdgfV.html
+ 23   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.56 : 1.56 : w5oOOY.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.53 : 1.53 : 5m.html
+ 29   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 30   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 31   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 32   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 33   1.00 : 0.52 : 1.52 : pjbX.html
+ 34   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 35   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 36   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 37   1.00 : 0.50 : 1.50 : 5D.html
+ 38   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 39   1.00 : 0.50 : 1.50 : ds6uc.html
+ 40   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 41   1.00 : 0.47 : 1.47 : Locx.html
+ 42   1.00 : 0.47 : 1.47 : L8D.html
+ 43   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 44   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 45   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 46   1.00 : 0.44 : 1.44 : MD.html
+ 47   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 48   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 49   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 50   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 51   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 52   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 53   1.00 : 0.40 : 1.40 : 2Lg.html
+ 54   1.00 : 0.40 : 1.40 : dA.html
+ 55   1.00 : 0.40 : 1.40 : Fphne.html
+ 56   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 57   1.00 : 0.38 : 1.38 : A2.html
+ 58   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 59   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 60   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 61   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 62   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 63   1.00 : 0.35 : 1.35 : iF.html
+ 64   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 65   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 66   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 67   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 68   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 69   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 70   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 71   1.00 : 0.26 : 1.26 : 44T.html
+ 72   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 73   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 74   1.00 : 0.26 : 1.26 : H1Zl.html
+ 75   1.00 : 0.26 : 1.26 : l8i.html
+ 76   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 77   1.00 : 0.24 : 1.24 : tAz.html
+ 78   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 79   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 80   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 81   1.00 : 0.11 : 1.11 : CGBF.html
+ 82   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 83   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 84   0.94 : 0.70 : 1.64 : y9b5OECyA.html
+ 85   0.94 : 0.57 : 1.51 : y3ylcavd22KB.html
+ 86   0.94 : 0.50 : 1.44 : w9.html
+ 87   0.94 : 0.42 : 1.36 : YpnawHKVRr0RqEuFRf3a.html
+ 88   0.94 : 0.28 : 1.21 : 3ZGarg8FgMINxHc.html
+ 89   0.88 : 0.58 : 1.45 : Fyr.html
+ 90   0.81 : 0.38 : 1.19 : 2qj.html
+ 91   0.75 : 0.29 : 1.04 : 1LgVpEddZEFpu.html
+ 92   0.69 : 0.69 : 1.38 : JX.html
+ 93   0.69 : 0.48 : 1.17 : WbAkNnUlmTqUT.html
+ 94   0.69 : 0.40 : 1.08 : oY0KSbEQ6ge3DoZATbeD.html
+ 95   0.56 : 0.61 : 1.18 : 2oAc7.html
+ 96   0.56 : 0.41 : 0.97 : qTs.html
+ 97   0.38 : 0.52 : 0.89 : tU3SgGjo.html
+ 98   0.31 : 0.42 : 0.73 : yPRH6FrLBVJKhY.html
+ 99   0.25 : 0.49 : 0.74 : gVaqCLWOmc.html
+100   0.19 : 0.79 : 0.98 : bdbv.html
+101   0.19 : 0.44 : 0.63 : tL1P6.html
+102   0.19 : 0.42 : 0.61 : SU1mE.html
+103   0.19 : 0.28 : 0.47 : TTchrX3CujZydlAAMFam.html
+104   0.12 : 0.53 : 0.65 : tURbVD4TRLz0LlIYK.html
+105   0.12 : 0.17 : 0.30 : LU7dXP.html
+106   0.12 : 0.11 : 0.24 : pDF8Hn.html
+107   0.06 : 0.33 : 0.39 : ijmkrLRJRKtv.html
+108   0.06 : 0.30 : 0.37 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.19 : 0.19 : Io1tZ.html
+
+<test case 18>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 10   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.66 : 1.66 : fov.html
+ 14   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 15   1.00 : 0.64 : 1.64 : wed.html
+ 16   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 17   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 18   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 19   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 20   1.00 : 0.60 : 1.60 : Vpm.html
+ 21   1.00 : 0.58 : 1.58 : xLBtf.html
+ 22   1.00 : 0.58 : 1.58 : UdgfV.html
+ 23   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.53 : 1.53 : 5m.html
+ 29   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 30   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 31   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 32   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 33   1.00 : 0.52 : 1.52 : pjbX.html
+ 34   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 35   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 36   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 37   1.00 : 0.50 : 1.50 : w9.html
+ 38   1.00 : 0.50 : 1.50 : 5D.html
+ 39   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 40   1.00 : 0.50 : 1.50 : ds6uc.html
+ 41   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 42   1.00 : 0.47 : 1.47 : L8D.html
+ 43   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 44   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 45   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 46   1.00 : 0.44 : 1.44 : MD.html
+ 47   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 48   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 49   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 50   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 51   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 52   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 53   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 54   1.00 : 0.40 : 1.40 : 2Lg.html
+ 55   1.00 : 0.40 : 1.40 : dA.html
+ 56   1.00 : 0.40 : 1.40 : Fphne.html
+ 57   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 58   1.00 : 0.38 : 1.38 : A2.html
+ 59   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 60   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 61   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 62   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 63   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 64   1.00 : 0.35 : 1.35 : iF.html
+ 65   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 66   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 67   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 68   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 69   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 70   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 71   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 72   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 73   1.00 : 0.26 : 1.26 : 44T.html
+ 74   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 75   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 76   1.00 : 0.26 : 1.26 : H1Zl.html
+ 77   1.00 : 0.26 : 1.26 : l8i.html
+ 78   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 79   1.00 : 0.24 : 1.24 : tAz.html
+ 80   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 81   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 82   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 83   1.00 : 0.11 : 1.11 : CGBF.html
+ 84   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 85   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 86   0.94 : 0.70 : 1.65 : y9b5OECyA.html
+ 87   0.94 : 0.56 : 1.50 : w5oOOY.html
+ 88   0.94 : 0.47 : 1.41 : Locx.html
+ 89   0.88 : 0.29 : 1.18 : 1LgVpEddZEFpu.html
+ 90   0.82 : 0.58 : 1.40 : Fyr.html
+ 91   0.76 : 0.61 : 1.38 : 2oAc7.html
+ 92   0.76 : 0.41 : 1.18 : qTs.html
+ 93   0.71 : 0.48 : 1.19 : WbAkNnUlmTqUT.html
+ 94   0.65 : 0.40 : 1.04 : oY0KSbEQ6ge3DoZATbeD.html
+ 95   0.65 : 0.38 : 1.03 : 2qj.html
+ 96   0.53 : 0.28 : 0.81 : TTchrX3CujZydlAAMFam.html
+ 97   0.41 : 0.69 : 1.10 : JX.html
+ 98   0.35 : 0.42 : 0.77 : yPRH6FrLBVJKhY.html
+ 99   0.24 : 0.49 : 0.72 : gVaqCLWOmc.html
+100   0.24 : 0.17 : 0.41 : LU7dXP.html
+101   0.18 : 0.79 : 0.97 : bdbv.html
+102   0.18 : 0.52 : 0.69 : tU3SgGjo.html
+103   0.12 : 0.53 : 0.64 : tURbVD4TRLz0LlIYK.html
+104   0.12 : 0.44 : 0.56 : tL1P6.html
+105   0.12 : 0.42 : 0.54 : SU1mE.html
+106   0.06 : 0.19 : 0.25 : Io1tZ.html
+107   0.00 : 0.33 : 0.33 : ijmkrLRJRKtv.html
+108   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 19>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  4   1.00 : 0.84 : 1.84 : BIXJat10.html
+  5   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  6   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  7   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  8   1.00 : 0.70 : 1.70 : y9b5OECyA.html
+  9   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 10   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.66 : 1.66 : fov.html
+ 14   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 15   1.00 : 0.64 : 1.64 : wed.html
+ 16   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 17   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 18   1.00 : 0.62 : 1.62 : n7XQLe.html
+ 19   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 20   1.00 : 0.60 : 1.60 : Vpm.html
+ 21   1.00 : 0.58 : 1.58 : xLBtf.html
+ 22   1.00 : 0.58 : 1.58 : UdgfV.html
+ 23   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 24   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 25   1.00 : 0.57 : 1.57 : y3ylcavd22KB.html
+ 26   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 27   1.00 : 0.54 : 1.54 : Cg.html
+ 28   1.00 : 0.53 : 1.53 : 5m.html
+ 29   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 30   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 31   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 32   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 33   1.00 : 0.52 : 1.52 : pjbX.html
+ 34   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 35   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 36   1.00 : 0.50 : 1.50 : w9.html
+ 37   1.00 : 0.50 : 1.50 : 5D.html
+ 38   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 39   1.00 : 0.50 : 1.50 : ds6uc.html
+ 40   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 41   1.00 : 0.47 : 1.47 : Locx.html
+ 42   1.00 : 0.47 : 1.47 : L8D.html
+ 43   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 44   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 45   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 46   1.00 : 0.44 : 1.44 : MD.html
+ 47   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 48   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 49   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 50   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 51   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 52   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 53   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 54   1.00 : 0.40 : 1.40 : 2Lg.html
+ 55   1.00 : 0.40 : 1.40 : dA.html
+ 56   1.00 : 0.40 : 1.40 : Fphne.html
+ 57   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 58   1.00 : 0.38 : 1.38 : A2.html
+ 59   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 60   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 61   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 62   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 63   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 64   1.00 : 0.35 : 1.35 : iF.html
+ 65   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 66   1.00 : 0.33 : 1.33 : eWH692uRkFzpNA.html
+ 67   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 68   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 69   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 70   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 71   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 72   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 73   1.00 : 0.26 : 1.26 : 44T.html
+ 74   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 75   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 76   1.00 : 0.26 : 1.26 : H1Zl.html
+ 77   1.00 : 0.26 : 1.26 : l8i.html
+ 78   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 79   1.00 : 0.24 : 1.24 : tAz.html
+ 80   1.00 : 0.24 : 1.24 : CmqUjwzaM4AB4dzq.html
+ 81   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 82   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 83   1.00 : 0.11 : 1.11 : CGBF.html
+ 84   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 85   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 86   0.94 : 0.89 : 1.84 : FKPufDS4cEC.html
+ 87   0.94 : 0.51 : 1.45 : D9tSfdAfER7vS.html
+ 88   0.83 : 0.58 : 1.41 : Fyr.html
+ 89   0.83 : 0.40 : 1.23 : oY0KSbEQ6ge3DoZATbeD.html
+ 90   0.78 : 0.56 : 1.34 : w5oOOY.html
+ 91   0.78 : 0.41 : 1.19 : qTs.html
+ 92   0.78 : 0.29 : 1.07 : 1LgVpEddZEFpu.html
+ 93   0.67 : 0.48 : 1.15 : WbAkNnUlmTqUT.html
+ 94   0.44 : 0.61 : 1.06 : 2oAc7.html
+ 95   0.44 : 0.38 : 0.82 : 2qj.html
+ 96   0.39 : 0.17 : 0.56 : LU7dXP.html
+ 97   0.33 : 0.79 : 1.12 : bdbv.html
+ 98   0.28 : 0.53 : 0.80 : tURbVD4TRLz0LlIYK.html
+ 99   0.28 : 0.42 : 0.70 : yPRH6FrLBVJKhY.html
+100   0.22 : 0.69 : 0.91 : JX.html
+101   0.22 : 0.52 : 0.74 : tU3SgGjo.html
+102   0.17 : 0.44 : 0.61 : tL1P6.html
+103   0.17 : 0.42 : 0.59 : SU1mE.html
+104   0.17 : 0.33 : 0.49 : ijmkrLRJRKtv.html
+105   0.17 : 0.28 : 0.44 : TTchrX3CujZydlAAMFam.html
+106   0.11 : 0.49 : 0.60 : gVaqCLWOmc.html
+107   0.06 : 0.30 : 0.36 : eJhI3Pi8WQEwcE2Bl.html
+108   0.06 : 0.19 : 0.24 : Io1tZ.html
+109   0.00 : 0.11 : 0.11 : pDF8Hn.html
+
+<test case 20>
+  1   1.00 : 1.00 : 2.00 : yONWF95fnSylTv5.html
+  2   1.00 : 1.00 : 2.00 : oH5NAW0Feo0BDPhlW.html
+  3   1.00 : 0.89 : 1.89 : FKPufDS4cEC.html
+  4   1.00 : 0.88 : 1.88 : eGlTTdmeAKO.html
+  5   1.00 : 0.84 : 1.84 : BIXJat10.html
+  6   1.00 : 0.76 : 1.76 : I20QPigfjGfhb6E.html
+  7   1.00 : 0.71 : 1.71 : w6uRx316n.html
+  8   1.00 : 0.71 : 1.71 : 5aclD99RhC1e28.html
+  9   1.00 : 0.70 : 1.70 : wuMbV9aK9Hd3.html
+ 10   1.00 : 0.69 : 1.69 : QEFgnjjwZ19NlgFVRLI.html
+ 11   1.00 : 0.69 : 1.69 : oQFpZBIQ3YyD.html
+ 12   1.00 : 0.68 : 1.68 : YjMfw5gNdh.html
+ 13   1.00 : 0.66 : 1.66 : fov.html
+ 14   1.00 : 0.65 : 1.65 : AplRYmaNKPj70G4QVgGd.html
+ 15   1.00 : 0.64 : 1.64 : wed.html
+ 16   1.00 : 0.63 : 1.63 : JnMvJw.html
+ 17   1.00 : 0.62 : 1.62 : Sj9eRGoXlqOqU4m.html
+ 18   1.00 : 0.61 : 1.61 : sJRDJfpiHJCmnH.html
+ 19   1.00 : 0.60 : 1.60 : Vpm.html
+ 20   1.00 : 0.58 : 1.58 : xLBtf.html
+ 21   1.00 : 0.58 : 1.58 : UdgfV.html
+ 22   1.00 : 0.58 : 1.58 : P5O7Dg4pDux0OpE.html
+ 23   1.00 : 0.57 : 1.57 : 1EfN0g.html
+ 24   1.00 : 0.55 : 1.55 : 1DiCks48fr3Jmha.html
+ 25   1.00 : 0.54 : 1.54 : Cg.html
+ 26   1.00 : 0.53 : 1.53 : 5m.html
+ 27   1.00 : 0.52 : 1.52 : RutOZ70qs8C.html
+ 28   1.00 : 0.52 : 1.52 : yjCEaLwW.html
+ 29   1.00 : 0.52 : 1.52 : HgqFxy2FmaeqV.html
+ 30   1.00 : 0.52 : 1.52 : NVUczxQkWLykumkxlmCs.html
+ 31   1.00 : 0.51 : 1.51 : 2kyuEQU0skvOzCDnsgfv.html
+ 32   1.00 : 0.51 : 1.51 : aTqhZIAEEc.html
+ 33   1.00 : 0.51 : 1.51 : D9tSfdAfER7vS.html
+ 34   1.00 : 0.50 : 1.50 : w9.html
+ 35   1.00 : 0.50 : 1.50 : 5D.html
+ 36   1.00 : 0.50 : 1.50 : rGAArtWDQKSxTWl1X.html
+ 37   1.00 : 0.50 : 1.50 : ds6uc.html
+ 38   1.00 : 0.49 : 1.49 : ktEazua8wR1aP.html
+ 39   1.00 : 0.47 : 1.47 : Locx.html
+ 40   1.00 : 0.47 : 1.47 : L8D.html
+ 41   1.00 : 0.47 : 1.47 : gBnVjc.html
+ 42   1.00 : 0.46 : 1.46 : 9bBmL4bz2Qe4.html
+ 43   1.00 : 0.44 : 1.44 : uggCE09c.html
+ 44   1.00 : 0.44 : 1.44 : MD.html
+ 45   1.00 : 0.44 : 1.44 : 4YthS7w3rhGK.html
+ 46   1.00 : 0.44 : 1.44 : fHwsCJ.html
+ 47   1.00 : 0.43 : 1.43 : RUTsrDZ4JW5rXDgaUkbT.html
+ 48   1.00 : 0.42 : 1.42 : XF62fElBqufAJyPv5aRQ.html
+ 49   1.00 : 0.42 : 1.42 : mBW9epfH0W0z.html
+ 50   1.00 : 0.42 : 1.42 : YpnawHKVRr0RqEuFRf3a.html
+ 51   1.00 : 0.41 : 1.41 : ORJwprCgYgaETpCOhfvN.html
+ 52   1.00 : 0.40 : 1.40 : 2Lg.html
+ 53   1.00 : 0.40 : 1.40 : dA.html
+ 54   1.00 : 0.40 : 1.40 : Fphne.html
+ 55   1.00 : 0.39 : 1.39 : 8Zp2hG.html
+ 56   1.00 : 0.38 : 1.38 : A2.html
+ 57   1.00 : 0.38 : 1.38 : XOOqDg4gqiYRrsGvB4K5.html
+ 58   1.00 : 0.38 : 1.38 : PDBoywN1JbXLcJBr.html
+ 59   1.00 : 0.37 : 1.37 : IEpmkw8DGLQc6ZC6XY.html
+ 60   1.00 : 0.37 : 1.37 : BXz1N7TRnUS6eK.html
+ 61   1.00 : 0.36 : 1.36 : WP6fm5uub.html
+ 62   1.00 : 0.35 : 1.35 : iF.html
+ 63   1.00 : 0.34 : 1.34 : lXffUd4mBt.html
+ 64   1.00 : 0.33 : 1.33 : 5kCo2Ubxcd1B9VSSt.html
+ 65   1.00 : 0.32 : 1.32 : nFD7Wzry.html
+ 66   1.00 : 0.32 : 1.32 : rFw9FsIS.html
+ 67   1.00 : 0.31 : 1.31 : nv37UqXDzUiNNiURnO.html
+ 68   1.00 : 0.29 : 1.29 : k9EBQBQ73MemtP5QW.html
+ 69   1.00 : 0.28 : 1.28 : 3ZGarg8FgMINxHc.html
+ 70   1.00 : 0.26 : 1.26 : xHvIczqgkoryhXy.html
+ 71   1.00 : 0.26 : 1.26 : qgVN7XbLjB9rI.html
+ 72   1.00 : 0.26 : 1.26 : H1Zl.html
+ 73   1.00 : 0.26 : 1.26 : M2wfDzI6m1GENC.html
+ 74   1.00 : 0.24 : 1.24 : tAz.html
+ 75   1.00 : 0.22 : 1.22 : XeoToFJvg6D9DVCji.html
+ 76   1.00 : 0.14 : 1.14 : MKRYuPSOpHeKci0FftAt.html
+ 77   1.00 : 0.11 : 1.11 : CGBF.html
+ 78   1.00 : 0.11 : 1.11 : mChIwaq4m.html
+ 79   1.00 : 0.11 : 1.11 : n84ypk3C4zSJPMvLT.html
+ 80   0.95 : 0.70 : 1.65 : y9b5OECyA.html
+ 81   0.95 : 0.62 : 1.56 : n7XQLe.html
+ 82   0.95 : 0.57 : 1.52 : y3ylcavd22KB.html
+ 83   0.95 : 0.56 : 1.51 : w5oOOY.html
+ 84   0.95 : 0.52 : 1.46 : pjbX.html
+ 85   0.95 : 0.33 : 1.28 : eWH692uRkFzpNA.html
+ 86   0.95 : 0.26 : 1.21 : 44T.html
+ 87   0.95 : 0.26 : 1.20 : l8i.html
+ 88   0.95 : 0.24 : 1.19 : CmqUjwzaM4AB4dzq.html
+ 89   0.89 : 0.58 : 1.47 : Fyr.html
+ 90   0.84 : 0.48 : 1.33 : WbAkNnUlmTqUT.html
+ 91   0.84 : 0.38 : 1.22 : 2qj.html
+ 92   0.84 : 0.29 : 1.14 : 1LgVpEddZEFpu.html
+ 93   0.58 : 0.61 : 1.19 : 2oAc7.html
+ 94   0.58 : 0.41 : 0.99 : qTs.html
+ 95   0.58 : 0.40 : 0.98 : oY0KSbEQ6ge3DoZATbeD.html
+ 96   0.37 : 0.69 : 1.06 : JX.html
+ 97   0.32 : 0.79 : 1.10 : bdbv.html
+ 98   0.32 : 0.42 : 0.74 : yPRH6FrLBVJKhY.html
+ 99   0.26 : 0.52 : 0.78 : tU3SgGjo.html
+100   0.26 : 0.49 : 0.75 : gVaqCLWOmc.html
+101   0.21 : 0.44 : 0.65 : tL1P6.html
+102   0.21 : 0.42 : 0.63 : SU1mE.html
+103   0.21 : 0.28 : 0.49 : TTchrX3CujZydlAAMFam.html
+104   0.16 : 0.19 : 0.35 : Io1tZ.html
+105   0.11 : 0.53 : 0.63 : tURbVD4TRLz0LlIYK.html
+106   0.11 : 0.17 : 0.28 : LU7dXP.html
+107   0.11 : 0.11 : 0.22 : pDF8Hn.html
+108   0.05 : 0.33 : 0.38 : ijmkrLRJRKtv.html
+109   0.00 : 0.30 : 0.30 : eJhI3Pi8WQEwcE2Bl.html
+
+Finish

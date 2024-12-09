@@ -1,0 +1,104 @@
+/* 検索ボックス */
+.search-box {
+    display: flex;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow: hidden; /* ボタンのアニメーションを滑らかに */
+}
+
+.search-box input {
+    flex: 1; /* 入力欄が最大幅になるように */
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+    border: 2px solid #673AB7;
+    border-right: none; /* 右側の境界線を消す */
+    outline: none;
+}
+
+.search-box button {
+    padding: 10px 15px;
+    color: white;
+    font-size: 16px;
+    background-color: #673AB7;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.search-box button:hover {
+    background-color: #4527A0;
+}
+
+/* 評価機能 */
+.rating {
+    display: inline-block;
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+  
+.rating input {
+    position: absolute;
+    left: -9999px;
+}
+  
+.rating label {
+    display: inline-block;
+    padding: 2px;
+    font-size: 20px;
+    color: #ccc;
+    cursor: pointer;
+}
+  
+.rating label:before {
+    content: "★";
+}
+  
+.rating input:checked ~ label, 
+.rating label:hover,
+.rating label:hover ~ label {
+    color: #FFD700;
+}
+
+/* ログアウトリンクの装飾 */
+.logout-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #f44336; /* 赤色 */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s; /* ホバー時の滑らかな変化 */
+}
+
+.logout-link:hover {
+    background-color: #d32f2f; /* 暗めの赤色 */
+}
+
+.recommend-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50; /* 緑色 */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.recommend-button:hover {
+    background-color: #45a049; /* 暗めの緑色 */
+}
+
+.friend-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #008CBA; /* 青色 */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.friend-button:hover {
+    background-color: #00688f; /* 暗めの青色 */
+}

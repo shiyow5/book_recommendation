@@ -1,0 +1,120 @@
+/* 全体設定 */
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+/* 検索ボックス */
+.search-box {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.search-box input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+}
+
+.search-box button {
+    padding: 10px 15px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.search-box button:hover {
+    background-color: #00688f;
+}
+
+/* ユーザー一覧 */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    display: flex; 
+    align-items: center; /* 垂直方向中央揃え */
+    justify-content: space-between; /* ボタンを右端に配置 */
+}
+
+/* 追加ボタン */
+.add-friend-button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.add-friend-button:hover {
+    background-color: #45a049;
+}
+
+/* すでにフレンドである場合のメッセージ */
+.already-friend {
+    padding: 5px 10px;
+    background-color: #999; /* グレー */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+.back-button { 
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #008CBA; /* 青色 */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    margin-left: auto;
+}
+
+.back-button:hover {
+    background-color: #00688f; /* 暗めの青色 */
+}
+
+/* 削除ボタン */
+.delete-friend-button {
+    float: right;
+    padding: 5px 10px;
+    background-color: #f44336; /* 赤色 */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.delete-friend-button:hover {
+    background-color: #d32f2f; /* 暗めの赤色 */
+}

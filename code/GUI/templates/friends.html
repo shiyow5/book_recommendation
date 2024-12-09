@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>フレンド</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='friends.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>フレンド</h1>
+
+        <h2>ユーザー検索</h2>
+        <form method="POST" action="{{ url_for('friends') }}"> 
+            <div class="search-box">
+                <input type="text" name="query" placeholder="ユーザー名を入力" id="user-search">
+                <button type="submit" id="search-button">検索</button>
+            </div>
+        </form>
+
+        <h2>ユーザー一覧</h2>
+        <ul id="user-list">
+            {% for user in users %}
+                <li>
+                    {{ user.username }} 
+                    {% if user.is_friend %}
+                        <span class="already-friend">すでにフレンドです</span>
+                        <form method="POST" action="{{ url_for('delete_friend') }}" style="display: inline;">
+                            <input type="hidden" name="user" value="{{ user.username }}">
+                            <button type="submit" class="delete-friend-button">削除</button>
+                        </form>
+                    {% else %}
+                        <form method="POST" action="{{ url_for('add_friend') }}">
+                            <input type="hidden" name="user" value="{{ user.username }}">
+                            <button type="submit" class="add-friend-button">追加</button>
+                        </form>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+        <a href="{{ url_for('search') }}" class="back-button">戻る</a>
+    </div>
+</body>
+</html>
